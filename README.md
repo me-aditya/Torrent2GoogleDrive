@@ -1,2 +1,2 @@
 # Torrent2GoogleDrive
-Errorfree file,Saves torrent file or magnet link to google drive
+Error free, updated file that saves torrent file or magnet link to google drive
